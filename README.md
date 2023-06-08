@@ -1,4 +1,5 @@
 # Tide
+**T**ext **IDE**
 Console-based code editor
 
 Features:
