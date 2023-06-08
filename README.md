@@ -1,6 +1,5 @@
 # Tide
-**T**ext **IDE** \n
-Console-based code editor
+**T**ext **IDE**
 
 Features:
  - Full .NET C# support
