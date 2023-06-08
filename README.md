@@ -1,5 +1,5 @@
 # Tide
-_T_ext _IDE*_
+_T_ ext _IDE_
 
 Features:
  - Full .NET C# support
