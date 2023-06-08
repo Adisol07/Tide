@@ -1,5 +1,5 @@
 # Tide
-**T**ext **IDE**
+**T**ext **IDE** \n
 Console-based code editor
 
 Features:
